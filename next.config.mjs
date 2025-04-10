@@ -4,9 +4,9 @@ pageExtensions: ['html', 'jsx', 'js', 'tsx', 'ts','mjs'],
   async redirects() {
     return [
       {
-        source: '/d860b131acff167353f23c2412fbb2c5.html',
-        destination: '/d860b131acff167353f23c2412fbb2c5',
-        permanent: false,
+        source: '/056949325b65d64ce333ccddf5d44a9c.html',
+        destination: '/056949325b65d64ce333ccddf5d44a9c.html',
+        permanent: true,
       },
     ];
   },
